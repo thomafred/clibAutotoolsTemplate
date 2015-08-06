@@ -57,7 +57,7 @@ AC_CONFIG_FILES([
           #src/[LibraryName]/[Package1]/Makefile
           bindings/Makefile
           bindings/cpp/Makefile
-          bindings/Python/Makefile
+          bindings/python/Makefile
           examples/Makefile
           examples/c/Makefile
           examples/cpp/Makefile
